@@ -1,0 +1,1 @@
+Simple Python example to illustrate Bitcon's proof-of-work.
